@@ -1,0 +1,12 @@
+{
+  "name": "big-marian",
+  "version": "0.0.2",
+  "peerDependencies": {
+    "@angular/common": "^12.1.0",
+    "@angular/core": "^12.1.0",
+    "phaser": "^3.55.2"
+  },
+  "dependencies": {
+    "tslib": "^2.2.0"
+  }
+}
